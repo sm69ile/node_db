@@ -1,0 +1,6 @@
+{
+	"name":"node_db",
+	"version":"0.0.1",
+	"dependencies":
+	{"colors":"0.5.0"}
+}
